@@ -1,0 +1,37 @@
+19/12/24  -->CDD
+ 
+Version Control System: 
+It is a system it records changes to a file or set of files over time so that specific version can be recalled later.
+
+It is of 2 types 
+Centrallized Version Control System: 
+single central repository 
+
+Distributed Version Control System: 
+
+CORE FUNCTIONALITIES : 
+
+the written code in local is called git where as , the remote repository is git hub 
+
+add  --> WOrking area to staging area
+commit --> staging area to local repository 
+
+
+Git hub is a hosting service for git repositories . Git is the tool ,while 
+
+git add .  --> to add the file into git 
+
+git config user.email  --> to check user email 
+
+git config --global user.name "kl-2200030647"  --> to set the user name in the git bash 
+
+git remote add origin https://github.com/username/repository.git  --> to push the data into repo 
+
+
+git branch -m main
+git push -u origin main
+
+
+ wsl --install --distribution kali_linux  --> to download the Linux into laptop 
+mkdir folder_name
+cd folder_name 
